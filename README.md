@@ -1,4 +1,4 @@
-# 🕵️ Fake Review Detector
+# 🕵️ Fake Review Detection System
 
 An AI-powered web app that classifies product reviews as **authentic** or **fake**, built with an **LSTM neural network** (TensorFlow/Keras) and served through a clean **Streamlit** interface.
 
